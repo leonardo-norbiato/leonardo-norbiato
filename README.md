@@ -1,9 +1,8 @@
-### I'm Leonardo Norbiato, welcome and enjoy! [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
 <img width="100%" align="center" src="https://github.com/leonardo-norbiato/leonardo-norbiato/blob/master/sobremin-500.gif" />
 
 [![](https://media-exp1.licdn.com/dms/image/C4D16AQFtMRT99zVjoQ/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=WI6nj1agBJOMqAQ3kcFrGzMVQPl0lgQ6pES7pDgODvo)](https://media-exp1.licdn.com/dms/image/C4D16AQFtMRT99zVjoQ/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=WI6nj1agBJOMqAQ3kcFrGzMVQPl0lgQ6pES7pDgODvo)
 
-#### 🔭 Currently working as an Agile Project Manager
+#### 🔭 Currently working as an Agile Project Manager [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardo-norbiato" />
