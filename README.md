@@ -8,7 +8,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leonardo-norbiato&show_icons=true&line_height=27" alt="My github stats" />
 </a>
-#### 📫 How to reach me:   
+
+#### 📫 How to reach me:
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/discord-round.svg" width="3.5%"/>](https://discord.gg/5PpKkZs)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/leonardonorbiato/)
 <a href="mailto:leonardo.norbiato@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
