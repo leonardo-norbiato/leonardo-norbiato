@@ -2,7 +2,7 @@
 
 [![](https://media-exp1.licdn.com/dms/image/C4D16AQFtMRT99zVjoQ/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=WI6nj1agBJOMqAQ3kcFrGzMVQPl0lgQ6pES7pDgODvo)](https://media-exp1.licdn.com/dms/image/C4D16AQFtMRT99zVjoQ/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=WI6nj1agBJOMqAQ3kcFrGzMVQPl0lgQ6pES7pDgODvo)
 
-#### 🔭 Currently working as an Agile Project Manager [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/leonardo-norbiato/my-stack)
+#### 🔭 Currently working as an Agile Project Manager [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/leonardo-norbiato/leonardo-norbiato)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leonardo-norbiato" />
