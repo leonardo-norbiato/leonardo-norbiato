@@ -21,7 +21,7 @@
 - 👯 I try to collaborate on innovative projects
 - 💬 Ask me about technological things
 
-#### 👨🏻‍💻 Languages and Tools <br />
+#### 👨🏻‍💻 Languages and Tools [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/leonardo-norbiato/leonardo-norbiato) <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
