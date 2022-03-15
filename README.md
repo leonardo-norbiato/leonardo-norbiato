@@ -15,7 +15,7 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/5PpKkZs)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/leonardonorbiato/)
 <a href="mailto:leonardo.norbiato@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
-[<img src="https://s3.resume.io/uploads/country/logo_default/2/for-light-bg.svg" width="60%"/>](https://resume.io/r/kO3ygOkmW)
+[<img src="https://s3.resume.io/uploads/country/logo_default/2/for-light-bg.svg" width="10%"/>](https://resume.io/r/kO3ygOkmW)
 
 - ♡ My hoobie is developing software
 - 🌱 I am currently specializing in Leadership and Management
